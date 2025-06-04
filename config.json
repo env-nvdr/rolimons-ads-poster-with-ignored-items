@@ -1,0 +1,22 @@
+{
+    "PlayerData":
+    {
+        "PlayerId": 1231231,
+        "Roli_token": "token here"
+    },
+
+    "Trades":
+    {
+        "Tags":["any", "demand", "robux", "upgrade", "downgrade"],
+        "WaitTime":
+        {
+            "Min": 15,
+            "Max": 19
+        }
+    },
+
+    "ItemsIgnored":
+    {
+        "ItemsIds":[123123123]
+    }
+}
